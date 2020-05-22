@@ -7,7 +7,7 @@
  * [Installation](#installation)
  * [Configuration ](#configuration )
  * [Supported Environments](#supported-environments)
- * [Sample Code](# Sample Code)
+ * [Sample Code](#sample-code)
  * [License](#license)
 
 
@@ -44,4 +44,4 @@ Before calling FilesCopy, FilesDelete, FilesGet, FilesUpdate, FilesUpdate*, File
 
 
 ##  License
-driverkit server Java sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Drivekit server Java sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
