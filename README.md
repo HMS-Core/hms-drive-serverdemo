@@ -31,7 +31,7 @@ Maven 3.6.1 is recommended.
 
 
 ## Configuration 
-
+No additional configuration is required.
 
 ## Sample Code 
 Currently, the core capabilities of Drive Kit include uploading, downloading, deleting, recycling, sharing, and searching for files in Drive as well as querying and monitoring file changes.
