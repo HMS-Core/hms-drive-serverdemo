@@ -22,6 +22,7 @@ The steps to run the Drive service sample code are as follows:
 1. Import project to your JAVA Integrated Development Environment.
 2. Use Maven to compile this project. 
 3. Obtain parameters in the Main function of each Java file in advance. For example, obtain the AT through the HMS SDK.
+See details:[HUAWEI Drive Service Development Preparation](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/server-dev-0000001050039664)
 
 
 ## Supported Environments 
