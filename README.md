@@ -6,7 +6,7 @@
  * [Installation](#installation)
  * [Configuration ](#configuration )
  * [Supported Environments](#supported-environments)
- * [Sample Code](#sample-code)
+ * [Getting Started](#getting-started)
  * [License](#license)
 
 
@@ -22,7 +22,7 @@ The steps to run the Drive service sample code are as follows:
 1. Import project to your JAVA Integrated Development Environment.
 2. Use Maven to compile this project. 
 3. Obtain parameters in the Main function of each Java file in advance. For example, obtain the AT through the HMS SDK.
-See details : [HUAWEI Drive Service Development Preparation](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/server-dev-0000001050039664)
+See details : [HUAWEI Drive Service Development Preparation](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/server-dev-0000001050039664)
 
 
 ## Supported Environments 
@@ -33,7 +33,7 @@ Maven 3.6.1 is recommended.
 ## Configuration 
 No additional configuration is required.
 
-## Sample Code 
+## Getting Started 
 Currently, the core capabilities of Drive Kit include uploading, downloading, deleting, recycling, sharing, and searching for files in Drive as well as querying and monitoring file changes.
 1. Obtain parameters in the Main function of each Java file in advance. For example, obtain the AT through the HMS SDK.
 2. Call the required APIs. Some APIs depend on each other, for example:
