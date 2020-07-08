@@ -1,5 +1,5 @@
 # HMS Drivekit Serverdemo
-
+English | [中文](https://github.com/HMS-Core/hms-drive-serverdemo/blob/master/README_ZH.md)
 ## Table of Contents
 
  * [Introduction](#introduction)
