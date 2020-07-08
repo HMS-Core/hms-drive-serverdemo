@@ -34,7 +34,7 @@ Maven 3.6.1 is recommended.
 No additional configuration is required.
 
 ## Getting Started 
-Currently, the core capabilities of Drive Kit include uploading, downloading, deleting, recycling, sharing, and searching for files in Drive as well as querying and monitoring file changes.
+Currently, the core capabilities of Drive Kit include uploading, downloading, deleting, recycling, and searching for files in Drive as well as querying and monitoring file changes.
 1. Obtain parameters in the Main function of each Java file in advance. For example, obtain the AT through the HMS SDK.
 2. Call the required APIs. Some APIs depend on each other, for example:
 Before calling changesSubscribe and ChangesList, you need to call ChangesGetStartCursor to get the query parameter startCursor.
