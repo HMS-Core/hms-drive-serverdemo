@@ -42,6 +42,14 @@
 在调用FilesResume接口之前, 你需要先调用FilesCreateResume或FilesUpdateResume来获取uploadId和serverId。
 在调用FilesCopy, FilesDelete, FilesGet, FilesUpdate, FilesUpdate*, FilesSubscribe, or FilesGet*等接口之前, 你需要先调用FilesCreate*接口来创建文件或目录并获取fileId。
 
+## 技术支持
+如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HMSCore/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
+
+如果您对使用HMS示例代码有疑问，请尝试：
+- 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services)，在**huawei-mobile-services**标签下提问，有华为研发专家在线一对一解决您的问题。
+- 到[华为开发者论坛](https://developer.huawei.com/consumer/cn/forum/blockdisplay?fid=18) HMS Core板块与其他开发者进行交流。
+
+如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-drive-serverdemo/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-drive-serverdemo/pulls)。
 
 ##  License
 Drivekit 服务端示例代码基于许可 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
